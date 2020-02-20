@@ -6,23 +6,23 @@ function App() {
       <label className="container">
         <input type="checkbox" />
         <li>
-          <span className="check"> Practice React</span>
+          <span className="check"> Build New React Projects</span>
         </li>
       </label>
       <br />
       <label className="container">
         <input type="checkbox" />
-        <span className="check"> Read up on React Interview Questions</span>
+        <span className="check"> Make Sure That My Software Is All Up to Date</span>
       </label>
       <br />
       <label className="container">
         <input type="checkbox" />
-        <span className="check"> Peruse Slack For Opportunities</span>
+        <span className="check"> Run 6.5 Miles</span>
       </label>
       <br />
       <label className="container">
         <input type="checkbox" />
-        <span className="check"> Apply To Etsy</span>
+        <span className="check"> Clean My House</span>
       </label>
     </div>
   );
